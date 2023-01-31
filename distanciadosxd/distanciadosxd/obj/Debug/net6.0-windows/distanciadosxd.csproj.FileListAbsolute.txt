@@ -1,0 +1,17 @@
+C:\Users\isaia\source\repos\distanciadosxd\distanciadosxd\obj\Debug\net6.0-windows\distanciadosxd.csproj.AssemblyReference.cache
+C:\Users\isaia\source\repos\distanciadosxd\distanciadosxd\obj\Debug\net6.0-windows\distanciadosxd.Form1.resources
+C:\Users\isaia\source\repos\distanciadosxd\distanciadosxd\obj\Debug\net6.0-windows\distanciadosxd.csproj.GenerateResource.cache
+C:\Users\isaia\source\repos\distanciadosxd\distanciadosxd\obj\Debug\net6.0-windows\distanciadosxd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\source\repos\distanciadosxd\distanciadosxd\obj\Debug\net6.0-windows\distanciadosxd.AssemblyInfoInputs.cache
+C:\Users\isaia\source\repos\distanciadosxd\distanciadosxd\obj\Debug\net6.0-windows\distanciadosxd.AssemblyInfo.cs
+C:\Users\isaia\source\repos\distanciadosxd\distanciadosxd\obj\Debug\net6.0-windows\distanciadosxd.csproj.CoreCompileInputs.cache
+C:\Users\isaia\source\repos\distanciadosxd\distanciadosxd\bin\Debug\net6.0-windows\distanciadosxd.exe
+C:\Users\isaia\source\repos\distanciadosxd\distanciadosxd\bin\Debug\net6.0-windows\distanciadosxd.deps.json
+C:\Users\isaia\source\repos\distanciadosxd\distanciadosxd\bin\Debug\net6.0-windows\distanciadosxd.runtimeconfig.json
+C:\Users\isaia\source\repos\distanciadosxd\distanciadosxd\bin\Debug\net6.0-windows\distanciadosxd.dll
+C:\Users\isaia\source\repos\distanciadosxd\distanciadosxd\bin\Debug\net6.0-windows\distanciadosxd.pdb
+C:\Users\isaia\source\repos\distanciadosxd\distanciadosxd\obj\Debug\net6.0-windows\distanciadosxd.dll
+C:\Users\isaia\source\repos\distanciadosxd\distanciadosxd\obj\Debug\net6.0-windows\refint\distanciadosxd.dll
+C:\Users\isaia\source\repos\distanciadosxd\distanciadosxd\obj\Debug\net6.0-windows\distanciadosxd.pdb
+C:\Users\isaia\source\repos\distanciadosxd\distanciadosxd\obj\Debug\net6.0-windows\distanciadosxd.genruntimeconfig.cache
+C:\Users\isaia\source\repos\distanciadosxd\distanciadosxd\obj\Debug\net6.0-windows\ref\distanciadosxd.dll

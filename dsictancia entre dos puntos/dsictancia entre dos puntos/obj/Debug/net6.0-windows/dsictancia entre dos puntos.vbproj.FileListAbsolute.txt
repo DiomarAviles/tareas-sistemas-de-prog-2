@@ -1,0 +1,17 @@
+C:\Users\isaia\source\repos\dsictancia entre dos puntos\dsictancia entre dos puntos\obj\Debug\net6.0-windows\dsictancia entre dos puntos.vbproj.AssemblyReference.cache
+C:\Users\isaia\source\repos\dsictancia entre dos puntos\dsictancia entre dos puntos\obj\Debug\net6.0-windows\dsictancia_entre_dos_puntos.Form1.resources
+C:\Users\isaia\source\repos\dsictancia entre dos puntos\dsictancia entre dos puntos\obj\Debug\net6.0-windows\dsictancia entre dos puntos.vbproj.GenerateResource.cache
+C:\Users\isaia\source\repos\dsictancia entre dos puntos\dsictancia entre dos puntos\obj\Debug\net6.0-windows\dsictancia entre dos puntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\source\repos\dsictancia entre dos puntos\dsictancia entre dos puntos\obj\Debug\net6.0-windows\dsictancia entre dos puntos.AssemblyInfoInputs.cache
+C:\Users\isaia\source\repos\dsictancia entre dos puntos\dsictancia entre dos puntos\obj\Debug\net6.0-windows\dsictancia entre dos puntos.AssemblyInfo.vb
+C:\Users\isaia\source\repos\dsictancia entre dos puntos\dsictancia entre dos puntos\obj\Debug\net6.0-windows\dsictancia entre dos puntos.vbproj.CoreCompileInputs.cache
+C:\Users\isaia\source\repos\dsictancia entre dos puntos\dsictancia entre dos puntos\bin\Debug\net6.0-windows\dsictancia entre dos puntos.exe
+C:\Users\isaia\source\repos\dsictancia entre dos puntos\dsictancia entre dos puntos\bin\Debug\net6.0-windows\dsictancia entre dos puntos.deps.json
+C:\Users\isaia\source\repos\dsictancia entre dos puntos\dsictancia entre dos puntos\bin\Debug\net6.0-windows\dsictancia entre dos puntos.runtimeconfig.json
+C:\Users\isaia\source\repos\dsictancia entre dos puntos\dsictancia entre dos puntos\bin\Debug\net6.0-windows\dsictancia entre dos puntos.dll
+C:\Users\isaia\source\repos\dsictancia entre dos puntos\dsictancia entre dos puntos\bin\Debug\net6.0-windows\dsictancia entre dos puntos.pdb
+C:\Users\isaia\source\repos\dsictancia entre dos puntos\dsictancia entre dos puntos\obj\Debug\net6.0-windows\dsictancia entre dos puntos.dll
+C:\Users\isaia\source\repos\dsictancia entre dos puntos\dsictancia entre dos puntos\obj\Debug\net6.0-windows\refint\dsictancia entre dos puntos.dll
+C:\Users\isaia\source\repos\dsictancia entre dos puntos\dsictancia entre dos puntos\obj\Debug\net6.0-windows\dsictancia entre dos puntos.pdb
+C:\Users\isaia\source\repos\dsictancia entre dos puntos\dsictancia entre dos puntos\obj\Debug\net6.0-windows\dsictancia entre dos puntos.genruntimeconfig.cache
+C:\Users\isaia\source\repos\dsictancia entre dos puntos\dsictancia entre dos puntos\obj\Debug\net6.0-windows\ref\dsictancia entre dos puntos.dll
